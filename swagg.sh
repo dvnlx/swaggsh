@@ -22,4 +22,5 @@ echo "hey $user"
 sleep 1
 
 echo "i use $distro btw"
-exit
+
+# very cool script :)
