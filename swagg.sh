@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# swagg.sh by iDev
+
 echo "Enter your name for the SWAGG app"
 
 read user
