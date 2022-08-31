@@ -8,7 +8,7 @@ read user
 
 sleep 1
 
-echo "Enter Your Distro e.g fddora,arch"
+echo "Enter Your Distro e.g fedora,arch,ubuntu or debian"
 
 read distro
 
@@ -23,4 +23,5 @@ sleep 1
 
 echo "i use $distro btw"
 
-# very cool script :)
+sleep 1
+
